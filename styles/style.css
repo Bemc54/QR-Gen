@@ -1,0 +1,23 @@
+.formulario{
+    width: 250px;
+    background-color: rgba(33, 247, 247, 0.744);
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+    padding: 30px;
+    border-radius: 20px;
+    border: 1px black solid;
+}
+.texto{
+    border-radius: 5px;
+    background-color: rgb(243, 255, 214);
+    font-style: italic;
+}
+img{
+    width: 150px;
+    height: 150px;
+}
+.btn-success{
+    margin-left: 20%;
+}
